@@ -3,43 +3,8 @@ layout: post
 title: "Kalkulator elektrolit"
 date: 2026-02-28
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Instagram Images Full</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background: #fafafa;
-        }
-        .gallery {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-            margin-top: 20px;
-        }
-        .gallery img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            border-radius: 12px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-            margin-bottom: 30px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Instagram Images Gallery</h1>
-    
-    <div class="gallery">
+
+<div class="gallery">
         <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/324848870_6250453964974552_2839587706624219115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzAxNTUwNjYzNDIzMDcwMTYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=kAkuaT96DwIQ7kNvwGPi4GY&_nc_oc=Adl_fkQ-A1jfxj6_35sM6qyCje1L70evHVLPaoQqzR4eqkm-CXDCM2OV10hbDQYYH94&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=emmvCN98L6baey0lENrLmw&_nc_ss=8&oh=00_Aftg4e-CT2ujNhTYXyNEdJt21ipWlB5zmbHRA8TOE7bqSQ&oe=69A7D81E" alt="Image 1">
         
         <img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.29350-15/324932216_737866017670392_624115180924238994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzAxNTUwNjYzNDE1NTE3MjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=K9SITNsA3zwQ7kNvwGyambL&_nc_oc=AdkImeQOAJUrocukdTS4N4OVxW2fchIFcofojEyfNQ8PukmWmJPljvXtfcLDUvBcpLA&_nc_zt=23&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfvfQ928DhjFbEE8wHkHbI6RMvCYKSWkGr3Vt41VEf3-iw&oe=69A7EC0D" alt="Image 2">
@@ -56,5 +21,3 @@ date: 2026-02-28
         
         <img src="https://scontent-cgk2-2.cdninstagram.com/v/t51.29350-15/325693347_1146316199402247_5379109339006930037_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzAxNTUwNjYzNDE1NTE0MzEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=WP-rvvRUd1QQ7kNvwGuwdN4&_nc_oc=AdmH4CcL2q3abxVD0Z_l-x3DQCMf3-uFQ4aw4PZsx7ynH41unGgtOcmLyj8VD0m7XcQ&_nc_zt=23&_nc_ht=scontent-cgk2-2.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfuXqBfiaeI_4-6-w5CfgGvYfD53i_XFgphTXmJROpiQ7Q&oe=69A7C727" alt="Image 8">
     </div>
-</body>
-</html>
