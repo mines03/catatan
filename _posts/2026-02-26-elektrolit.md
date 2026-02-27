@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Kalkulator elektrolit"
-date: 2026-02-28
+title: Kalkulator elektrolit
 ---
 
 <div class="gallery">
