@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Kalkulator elektrolit"
+date: 2026-02-28
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Images Full</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #fafafa;
+        }
+        .gallery {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Instagram Images Gallery</h1>
+    
+    <div class="gallery">
+        <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/324848870_6250453964974552_2839587706624219115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzAxNTUwNjYzNDIzMDcwMTYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=kAkuaT96DwIQ7kNvwGPi4GY&_nc_oc=Adl_fkQ-A1jfxj6_35sM6qyCje1L70evHVLPaoQqzR4eqkm-CXDCM2OV10hbDQYYH94&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=emmvCN98L6baey0lENrLmw&_nc_ss=8&oh=00_Aftg4e-CT2ujNhTYXyNEdJt21ipWlB5zmbHRA8TOE7bqSQ&oe=69A7D81E" alt="Image 1">
+        
+        <img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.29350-15/324932216_737866017670392_624115180924238994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzAxNTUwNjYzNDE1NTE3MjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=K9SITNsA3zwQ7kNvwGyambL&_nc_oc=AdkImeQOAJUrocukdTS4N4OVxW2fchIFcofojEyfNQ8PukmWmJPljvXtfcLDUvBcpLA&_nc_zt=23&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfvfQ928DhjFbEE8wHkHbI6RMvCYKSWkGr3Vt41VEf3-iw&oe=69A7EC0D" alt="Image 2">
+        
+        <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/325290709_195510316469393_3559453622227199320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzAxNTUwNjYzNDE1NTE5MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=c79ucsEPxKwQ7kNvwGEvqLL&_nc_oc=AdmxBCaT2NcASOyp7J32NP4YJe9tVa1eDl6kEtbyXhXSV-wHCi5Zg1-o9tirUWEoUy8&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AftbjcTh8E92fwshPFWc2JZKQa3vo-HdkBIQWRfsTBAImA&oe=69A7C691" alt="Image 3">
+        
+        <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/325641234_144320788137277_2385366629118371882_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzAxNTUwNjYzNDE0NjY2MTcyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=oFvePOuXBzEQ7kNvwEai5cj&_nc_oc=AdnGr5Z28NSEU4pIr0tpY9sDlIZgBqIrdbdptQDIBmWK4g8hjn2Pg90z09dCjk_T8UI&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfsBwEDBebrUvwMzR5C53WkpwrKsIKcJcCnpt_xzZrYkYA&oe=69A7D185" alt="Image 4">
+        
+        <img src="https://scontent-cgk1-2.cdninstagram.com/v/t51.29350-15/324887068_2135479356638445_6535711990186241562_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzAxNTUwNjYzNDE1NDk4NDc4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=l9a_QYuoa9MQ7kNvwESyiHq&_nc_oc=AdkoIb3jUIi2Q7FGfwWbt6VlBliqQztpxl73Y0SElcYHWeOpLVpIvtaymcGOc4u7uk8&_nc_zt=23&_nc_ht=scontent-cgk1-2.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AftvgZ0tmIUhjSwSBdFC0fwjpbt-9d-grH_5glcHFKF-_A&oe=69A7F068" alt="Image 5">
+        
+        <img src="https://scontent-cgk2-2.cdninstagram.com/v/t51.29350-15/320406350_2133827546814963_1985063656722153255_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzAxNTUwNjYzNDIzODk4MzA2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=wkhf_vpPNiIQ7kNvwE4PCBv&_nc_oc=AdmhjgSAUDtfzdVd0a0m7APAAlfJwNAO2UzDQVyGs0kwTmNaAqGX0wPEOX-pPJYzFQc&_nc_zt=23&_nc_ht=scontent-cgk2-2.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfurgNw7I-IucKKM0E4bJzbzhFZgCoG0iHzx4e3bWAF_iw&oe=69A7E679" alt="Image 6">
+        
+        <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/324889917_3428648364091017_5106632096491038227_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzAxNTUwNjYzNDE1NTA0MDM0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=9R0wKnuh02QQ7kNvwH77JOB&_nc_oc=Adni24XMgVEbKnSqBfXrqDWP1T5OBcWoZVDiX-l89gx8kHhWcaB8lDoyjabJFDJi5Gs&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_Aft1-VD1mB7OQoTj8xoia5pqq-YmLqi6sVr5kWmqwwJt_g&oe=69A7DD46" alt="Image 7">
+        
+        <img src="https://scontent-cgk2-2.cdninstagram.com/v/t51.29350-15/325693347_1146316199402247_5379109339006930037_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzAxNTUwNjYzNDE1NTE0MzEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=WP-rvvRUd1QQ7kNvwGuwdN4&_nc_oc=AdmH4CcL2q3abxVD0Z_l-x3DQCMf3-uFQ4aw4PZsx7ynH41unGgtOcmLyj8VD0m7XcQ&_nc_zt=23&_nc_ht=scontent-cgk2-2.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfuXqBfiaeI_4-6-w5CfgGvYfD53i_XFgphTXmJROpiQ7Q&oe=69A7C727" alt="Image 8">
+    </div>
+</body>
+</html>
