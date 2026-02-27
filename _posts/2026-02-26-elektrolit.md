@@ -5,7 +5,8 @@ title: Kalkulator elektrolit
 
 <div class="gallery">
         <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/324848870_6250453964974552_2839587706624219115_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzAxNTUwNjYzNDIzMDcwMTYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=kAkuaT96DwIQ7kNvwGPi4GY&_nc_oc=Adl_fkQ-A1jfxj6_35sM6qyCje1L70evHVLPaoQqzR4eqkm-CXDCM2OV10hbDQYYH94&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=emmvCN98L6baey0lENrLmw&_nc_ss=8&oh=00_Aftg4e-CT2ujNhTYXyNEdJt21ipWlB5zmbHRA8TOE7bqSQ&oe=69A7D81E" alt="Image 1">
-        
+        dr w Inf nacl 3% 12 tpm (Na 122)
+	dr p Inf nacl 3% 8 tpm (Na 124)
         <img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.29350-15/324932216_737866017670392_624115180924238994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzAxNTUwNjYzNDE1NTE3MjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=K9SITNsA3zwQ7kNvwGyambL&_nc_oc=AdkImeQOAJUrocukdTS4N4OVxW2fchIFcofojEyfNQ8PukmWmJPljvXtfcLDUvBcpLA&_nc_zt=23&_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AfvfQ928DhjFbEE8wHkHbI6RMvCYKSWkGr3Vt41VEf3-iw&oe=69A7EC0D" alt="Image 2">
         
         <img src="https://scontent-cgk2-1.cdninstagram.com/v/t51.29350-15/325290709_195510316469393_3559453622227199320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzAxNTUwNjYzNDE1NTE5MTE3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=c79ucsEPxKwQ7kNvwGEvqLL&_nc_oc=AdmxBCaT2NcASOyp7J32NP4YJe9tVa1eDl6kEtbyXhXSV-wHCi5Zg1-o9tirUWEoUy8&_nc_zt=23&_nc_ht=scontent-cgk2-1.cdninstagram.com&_nc_gid=QtjTn5ny2g6c5N6P4Y9ZJQ&_nc_ss=8&oh=00_AftbjcTh8E92fwshPFWc2JZKQa3vo-HdkBIQWRfsTBAImA&oe=69A7C691" alt="Image 3">
